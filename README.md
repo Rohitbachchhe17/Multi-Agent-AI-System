@@ -39,6 +39,16 @@ A **CrewAI‑style** multi‑agent pipeline built with **Python** and **Streamli
 
 ---
 
+<img width="923" height="398" alt="image" src="https://github.com/user-attachments/assets/c54707e6-5ea5-4cee-979c-9eec62ae2182" />
+
+<img width="821" height="337" alt="image" src="https://github.com/user-attachments/assets/bd3f20b9-1be4-4e82-a971-39fab6dea9dd" />
+
+<img width="851" height="404" alt="image" src="https://github.com/user-attachments/assets/6121a771-5766-4229-8d0a-492d6058fd7c" />
+
+![Uploading image.png…]()
+
+
+
 ## Architecture
 ```
 ┌─────────────────────┐     ┌─────────────────────┐
